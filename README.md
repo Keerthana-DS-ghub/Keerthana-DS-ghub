@@ -4,7 +4,10 @@
 
 ## 📊 My GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keerthana-DS-ghub&show_icons=true&theme=solarized-light)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Keerthana-DS-ghub&theme=github-ligh)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Keerthana-DS-ghub&theme=solarized-light)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Keerthana-DS-ghub&theme=github-light)  
 
 ## 🛠 Skills  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
