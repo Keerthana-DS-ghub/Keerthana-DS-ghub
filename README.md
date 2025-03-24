@@ -7,7 +7,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Keerthana-DS-ghub&theme=solarized-light)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Keerthana-DS-ghub&theme=github-light)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Keerthana-DS-ghub&theme=dracula)  
 
 ## 🛠 Skills  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
