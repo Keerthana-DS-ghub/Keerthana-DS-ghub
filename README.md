@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**Keerthana-DS-ghub/Keerthana-DS-ghub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Keerthana! A passionate **Data Scientist** who loves working with **SQL, Power BI, Python, Tableau and AWS.** 🚀  
 
-Here are some ideas to get you started:
+## 📊 My GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills  
+- 🐍 Python  
+- 🛢 SQL  
+- 📈 Power BI & Tableau  
+- ☁ AWS  
+- 🤖 Deep Learning  
+- 🗣 Natural Language Processing (NLP)  
+- 🔥 Large Language Models (LLMs) 
+
+## 📫 Connect with Me  
+[![LinkedIn]www.linkedin.com/in/keerthana-datascience]
