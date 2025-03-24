@@ -3,8 +3,8 @@
 👋 Hi, I'm Keerthana! A passionate **Data Scientist** who loves working with **SQL, Power BI, Python, Tableau and AWS.** 🚀  
 
 ## 📊 My GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keerthana-DS-ghub&show_icons=true&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Keerthana-DS-ghub&theme=merko)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keerthana-DS-ghub&show_icons=true&theme=solarized-light)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Keerthana-DS-ghub&theme=github-ligh)  
 
 ## 🛠 Skills  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
