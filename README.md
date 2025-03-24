@@ -22,3 +22,8 @@
 ## 📫 Connect with Me  
 📧 Email: skeerthi.datascience@gmail.com 
 💼 LinkedIn: Keerthana S(https://www.linkedin.com/in/keerthana-datascience/)
+
+## 📊 My GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark)  
+
