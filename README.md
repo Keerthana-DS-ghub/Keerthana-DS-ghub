@@ -1,6 +1,6 @@
 ![Github Banner](Github.png)
 
-👋 Hi, I'm Keerthana! A passionate **Data Scientist** who loves working with **SQL, Power BI, Python, Tableau and AWS.** 🚀  
+👋 Hi, I'm Keerthana! A passionate **Data Scientist** who loves working with **SQL, Power BI, Python, Machine Learning, Deep Learning, NLP,LLM, RAG, Tableau and AWS.** 🚀  
 
 ## 📊 My GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keerthana-DS-ghub&show_icons=true&theme=solarized-light)
