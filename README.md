@@ -1,4 +1,4 @@
-## Hi there 👋
+![Github Banner](Github.png)
 
 👋 Hi, I'm Keerthana! A passionate **Data Scientist** who loves working with **SQL, Power BI, Python, Tableau and AWS.** 🚀  
 
