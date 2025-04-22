@@ -16,7 +16,7 @@
 ## Internship Experience
 ### Data Science With AI 
 **Company Name:** Besant Technologies  
-**Duration:** June 2024 – Present 
+**Duration:** June 2024 – Present
 **Location:** Chennai 
 
 #### Key Responsibilities:
