@@ -37,16 +37,10 @@ As I continue to grow in my data science career, I aim to specialize in deep lea
 
 ## 🎓 Certifications  
 
-<table>
-  <tr>
-    <td>🔸 Tableau Data Analyst Certification - Udemy</td>
-    <td align="right">Mar 2025</td>
-  </tr>
-  <tr>
-    <td>🔸 Master Data Science & AI Certified</td>
-    <td align="right">Apr 2025</td>
-  </tr>
-</table>
+<p>
+🔸 Tableau Data Analyst Certification - Udemy<span style="float:right;">Mar 2025</span><br>
+🔸 Master Data Science & AI Certified<span style="float:right;">Apr 2025</span>
+</p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keerthana-DS-ghub&show_icons=true&theme=solarized-light)
 
