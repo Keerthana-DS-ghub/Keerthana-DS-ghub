@@ -45,4 +45,5 @@ As I continue to grow in my data science career, I aim to specialize in deep lea
 
 ## 📫 Connect with Me  
 📧 Email: skeerthi.datascience@gmail.com 
+
 💼 LinkedIn: Keerthana S(https://www.linkedin.com/in/keerthana-datascience/)
