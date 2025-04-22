@@ -10,12 +10,6 @@ My journey into data science started with a passion for solving real-world probl
 ### 🎯 Future Goals
 As I continue to grow in my data science career, I aim to specialize in deep learning and artificial intelligence. I'm particularly excited about the potential of large language models (LLMs) and their ability to transform how we interact with and analyze data. My goal is to build innovative, intelligent systems that can improve decision-making processes and create more efficient solutions.
  
-
-## 📊 My GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keerthana-DS-ghub&show_icons=true&theme=solarized-light)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Keerthana-DS-ghub&theme=dracula)  
-
 ## 🧰 Tech Stack & Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)![NLP](https://img.shields.io/badge/NLP-1E88E5?style=for-the-badge&logo=google&logoColor=white)![LLM](https://img.shields.io/badge/LLM-008080?style=for-the-badge&logo=openai&logoColor=white)![RAG](https://img.shields.io/badge/RAG-6A1B9A?style=for-the-badge&logo=semantic-web&logoColor=white)![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -25,7 +19,6 @@ As I continue to grow in my data science career, I aim to specialize in deep lea
 **Company Name:** Besant Technologies  
 **Duration:** June 2024 – Present
 **Location:** Chennai 
-
 
 #### Key Responsibilities:
 - Developed data-driven solutions using SQL and Python to analyze large datasets and extract actionable insights.
@@ -44,6 +37,11 @@ As I continue to grow in my data science career, I aim to specialize in deep lea
 
 ## 🎓 Certifications  
 ✔ [Tableau Data Analyst Certification - Udemy]
+
+## 📊 My GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keerthana-DS-ghub&show_icons=true&theme=solarized-light)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Keerthana-DS-ghub&theme=dracula)  
 
 ## 📫 Connect with Me  
 📧 Email: skeerthi.datascience@gmail.com 
