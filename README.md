@@ -1,6 +1,6 @@
 ![Github Banner](Github.png)
 
-##👋 I’m a passionate data professional with a Postgraduate degree in Computer Science. My expertise lies in transforming raw data into powerful insights using tools like SQL, Python, and Power BI. I'm currently diving deeper into Machine Learning, AWS, and the exciting world of LLMs and RAG for document intelligence.
+### 👋 I’m a passionate data professional with a Postgraduate degree in Computer Science. My expertise lies in transforming raw data into powerful insights using tools like SQL, Python, and Power BI. I'm currently diving deeper into Machine Learning, AWS, and the exciting world of LLMs and RAG for document intelligence.
 
 I believe in learning by doing, and my GitHub showcases real-time, end-to-end projects that solve actual business problems##. 🚀  
 
