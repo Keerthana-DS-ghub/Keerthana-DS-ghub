@@ -1,6 +1,7 @@
 ![Github Banner](Github.png)
 
 ### 👋 Hi, I'm Keerthana – Data Science Enthusiast | Postgraduate in Computer Science
+
 # Welcome to my GitHub! I am a passionate data professional with a strong foundation in transforming raw data into actionable insights. My expertise spans SQL, Python, Power BI, and Tableau, and I'm currently diving deeper into Machine Learning, AWS, and LLMs (Large Language Models) for document intelligence. 🚀
 
 ### 🌱 About Me
