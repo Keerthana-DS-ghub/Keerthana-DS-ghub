@@ -1,11 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+Keerthana+👋;Data+Science+Enthusiast;ML+%7C+SQL+%7C+Power+BI+%7C+AWS;Exploring+LLMs+%26+RAG+🚀;Welcome+to+my+GitHub+Portfolio!&color=00FF00&background=1E1E1E00" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+Keerthana+👋;Data+Science+Enthusiast;ML+%7C+SQL+%7C+Power+BI+%7C+AWS;Exploring+LLMs+%26+RAG+🚀;Welcome+to+my+GitHub+Portfolio!&color=000000&background=A7FFEB" alt="Typing SVG" />
 </p>
 
-
-
-  
-## Welcome to my GitHub! I am a passionate data professional with a strong foundation in transforming raw data into actionable insights. My expertise spans SQL, Python, Power BI, and Tableau, and I'm currently diving deeper into Machine Learning, AWS, and LLMs (Large Language Models) for document intelligence. 🚀
+### Welcome to my GitHub! I am a passionate data professional with a strong foundation in transforming raw data into actionable insights. My expertise spans SQL, Python, Power BI, and Tableau, and I'm currently diving deeper into Machine Learning, AWS, and LLMs (Large Language Models) for document intelligence. 🚀
 
 ### 🌱 About Me
 My journey into data science started with a passion for solving real-world problems using data. I enjoy uncovering patterns, making data-driven decisions, and continuously learning new technologies to keep up with the evolving field. Through my projects, I aim to bring value to businesses by creating end-to-end solutions that generate meaningful insights.
