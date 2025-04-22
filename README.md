@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+Keerthana+👋;Data+Science+Enthusiast;ML+%7C+SQL+%7C+Power+BI+%7C+AWS;Exploring+LLMs+%26+RAG+🚀;Welcome+to+my+GitHub+Portfolio!&color=000000&background=A7FFEB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hi+I'm+Keerthana+👋;Turning+Raw+Data+into+Insights!;Data+Science+%7C+ML+%7C+SQL+%7C+Power+BI+%7C+AWS;Exploring+LLMs+%26+RAG+for+Document+Intelligence;Welcome+to+my+GitHub+Portfolio+🚀" alt="Typing SVG" />
 </p>
 
 ### Welcome to my GitHub! I am a passionate data professional with a strong foundation in transforming raw data into actionable insights. My expertise spans SQL, Python, Power BI, and Tableau, and I'm currently diving deeper into Machine Learning, AWS, and LLMs (Large Language Models) for document intelligence. 🚀
