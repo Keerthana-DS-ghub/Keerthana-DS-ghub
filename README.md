@@ -37,6 +37,7 @@ As I continue to grow in my data science career, I aim to specialize in deep lea
 
 ## 🎓 Certifications  
 🔸 [Tableau Data Analyst Certification - Udemy]                                                          Mar-2025
+
 🔸 Master Data Science & AI Certified                                                                    Apr-2025
 
 ## 📊 My GitHub Stats  
