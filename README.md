@@ -1,8 +1,15 @@
 ![Github Banner](Github.png)
 
-### 👋 I’m a passionate data professional with a Postgraduate degree in Computer Science. My expertise lies in transforming raw data into powerful insights using tools like SQL, Python, and Power BI. I'm currently diving deeper into Machine Learning, AWS, and the exciting world of LLMs and RAG for document intelligence.
+### 👋 Hi, I'm Keerthana – Data Science Enthusiast | Postgraduate in Computer Science
 
-### I believe in learning by doing, and my GitHub showcases real-time, end-to-end projects that solve actual business problems. 🚀  
+## Welcome to my GitHub! I am a passionate data professional with a strong foundation in transforming raw data into actionable insights. My expertise spans SQL, Python, Power BI, and Tableau, and I'm currently diving deeper into Machine Learning, AWS, and LLMs (Large Language Models) for document intelligence. 🚀
+
+### 🌱 About Me
+My journey into data science started with a passion for solving real-world problems using data. I enjoy uncovering patterns, making data-driven decisions, and continuously learning new technologies to keep up with the evolving field. Through my projects, I aim to bring value to businesses by creating end-to-end solutions that generate meaningful insights.
+
+### 🎯 Future Goals
+As I continue to grow in my data science career, I aim to specialize in deep learning and artificial intelligence. I'm particularly excited about the potential of large language models (LLMs) and their ability to transform how we interact with and analyze data. My goal is to build innovative, intelligent systems that can improve decision-making processes and create more efficient solutions.
+ 
 
 ## 📊 My GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keerthana-DS-ghub&show_icons=true&theme=solarized-light)
