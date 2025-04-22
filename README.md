@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+Keerthana+👋;Data+Science+Enthusiast;ML+%7C+SQL+%7C+Power+BI+%7C+AWS;Exploring+LLMs+%26+RAG+🚀;Welcome+to+my+GitHub+Portfolio!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+Keerthana+👋;Data+Science+Enthusiast;ML+%7C+SQL+%7C+Power+BI+%7C+AWS;Exploring+LLMs+%26+RAG+🚀;Welcome+to+my+GitHub+Portfolio!&color=00FF00&background=1E1E1E00" alt="Typing SVG" />
 </p>
+
 
 
   
