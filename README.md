@@ -1,4 +1,4 @@
-<p align="center">
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=500&color=58A6FF&background=0D111700&width=500&lines=Your+text+here)<p align="center">
   <h2>👋 Hi, I'm Keerthana</h2>
   <h3>Data Science Enthusiast | Postgraduate in Computer Science</h3>
   
