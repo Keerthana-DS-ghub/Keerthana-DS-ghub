@@ -19,6 +19,7 @@
 **Duration:** June 2024 – Present
 **Location:** Chennai 
 
+
 #### Key Responsibilities:
 - Developed data-driven solutions using SQL and Python to analyze large datasets and extract actionable insights.
 - Collaborated with a team of data scientists to implement machine learning models to predict customer behavior.
