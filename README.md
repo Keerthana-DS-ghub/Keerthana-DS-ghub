@@ -36,7 +36,8 @@ As I continue to grow in my data science career, I aim to specialize in deep lea
 - Power BI dashboard integration
 
 ## 🎓 Certifications  
-✔ [Tableau Data Analyst Certification - Udemy]
+🔸 [Tableau Data Analyst Certification - Udemy]                                                          Mar-2025
+🔸 Master Data Science & AI Certified                                                                    Apr-2025
 
 ## 📊 My GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keerthana-DS-ghub&show_icons=true&theme=solarized-light)
