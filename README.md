@@ -4,7 +4,7 @@
 
 ### I am a passionate data professional with a strong foundation in transforming raw data into actionable insights. My expertise spans SQL, Python, Power BI, and Tableau, and I'm currently diving deeper into Machine Learning, AWS, and LLMs (Large Language Models) for document intelligence. 🚀
 
-![Project Banner](profile2.jpg)
+![Project Banner](Pro.png)
 
 ### 🌱 About Me
 My journey into data science started with a passion for solving real-world problems using data. I enjoy uncovering patterns, making data-driven decisions, and continuously learning new technologies to keep up with the evolving field. Through my projects, I aim to bring value to businesses by creating end-to-end solutions that generate meaningful insights.
