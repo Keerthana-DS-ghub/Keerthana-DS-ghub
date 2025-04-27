@@ -36,6 +36,10 @@ As I continue to grow in my data science career, I aim to specialize in deep lea
 - Multi-table analysis using MySQL
 - Forecast logic, deductions, and manufacturing cost breakdown
 - Power BI dashboard integration
+### 🔸 [Employee Performance Analysis (Power BI)](https://github.com/Keerthana-DS-ghub/Employee_Performance_Analysis)
+- Built an interactive HR analytics dashboard
+- Analyzed attrition, performance, salary hike trends, and job satisfaction
+- Used DAX measures, custom visualizations, and dynamic slicers in Power BI
 
 ## 🎓 Certifications  
 <ul>
