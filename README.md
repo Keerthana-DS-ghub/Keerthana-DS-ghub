@@ -29,14 +29,14 @@ As I continue to grow in my data science career, I aim to specialize in deep lea
 - Worked closely with the business team to create interactive dashboards in Tableau for real-time decision-making.
 
 ## 📂 Featured Projects
-### 🔸 [Hotel Booking Insights (Python)](https://github.com/Keerthana-DS-ghub/Analysing_Hotel_booking)
+### 🔸 [Pandas:Hotel Booking Insights (Python)](https://github.com/Keerthana-DS-ghub/Analysing_Hotel_booking)
 - Data cleaning, merging, outlier removal (3-sigma rule)
 - EDA and visualization using Pandas & Matplotlib
 ### 🔸 [SQL Project: Sales Forecast & Revenue Analysis](https://github.com/Keerthana-DS-ghub/SQL_Project)
 - Multi-table analysis using MySQL
 - Forecast logic, deductions, and manufacturing cost breakdown
 - Power BI dashboard integration
-### 🔸 [Employee Performance Analysis (Power BI)](https://github.com/Keerthana-DS-ghub/Employee-Performance-Analysis)
+### 🔸 [PowerBI:Employee Performance Analysis](https://github.com/Keerthana-DS-ghub/Employee-Performance-Analysis)
 - Built an interactive HR analytics dashboard
 - Analyzed attrition, performance, salary hike trends, and job satisfaction
 - Used DAX measures, custom visualizations, and dynamic slicers in Power BI
