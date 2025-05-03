@@ -35,16 +35,16 @@ As I continue to grow in my data science career, I aim to specialize in deep lea
  - Designed a modular, reusable pipeline ideal for downstream NLP tasks like classification or summarization  
  - Processed multiple documents to extract clean, normalized tokens ready for vectorization
 ### 🔸 [Pandas: Hotel Booking Insights (Python)](https://github.com/Keerthana-DS-ghub/Analysing_Hotel_booking)
-        - Data cleaning, merging, outlier removal (3-sigma rule)
-        - EDA and visualization using Pandas & Matplotlib
+ - Data cleaning, merging, outlier removal (3-sigma rule)
+ - EDA and visualization using Pandas & Matplotlib
 ### 🔸 [SQL Project: Sales Forecast & Revenue Analysis](https://github.com/Keerthana-DS-ghub/SQL_Project)
-        - Multi-table analysis using MySQL
-        - Forecast logic, deductions, and manufacturing cost breakdown
-        - Power BI dashboard integration
+  - Multi-table analysis using MySQL
+  - Forecast logic, deductions, and manufacturing cost breakdown
+  - Power BI dashboard integration
 ### 🔸 [PowerBI: Employee Performance Analysis](https://github.com/Keerthana-DS-ghub/Employee-Performance-Analysis)
-        - Built an interactive HR analytics dashboard
-        - Analyzed attrition, performance, salary hike trends, and job satisfaction
-        - Used DAX measures, custom visualizations, and dynamic slicers in Power BI
+  - Built an interactive HR analytics dashboard
+  - Analyzed attrition, performance, salary hike trends, and job satisfaction
+  - Used DAX measures, custom visualizations, and dynamic slicers in Power BI
 
 ## 🎓 Certifications  
 <ul>
