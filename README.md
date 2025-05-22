@@ -30,10 +30,11 @@ As I continue to grow in my data science career, I aim to specialize in deep lea
 
 ## 📂 Featured Projects
 ### 🔸 [NLP Text Preprocessing (Python)](https://github.com/Keerthana-DS-ghub/Text_Preprocessing/blob/main/README.md)
- - Built an end-to-end NLP pipeline using NLTK for tokenization, stopword removal, stemming, and lemmatization  
- - Customized stopword list and implemented both stemming and lemmatization for refined normalization  
- - Designed a modular, reusable pipeline ideal for downstream NLP tasks like classification or summarization  
- - Processed multiple documents to extract clean, normalized tokens ready for vectorization
+ - End-to-end text preprocessing workflow: tokenization, normalization, noise removal, and word form standardization
+ -Case normalization by converting text to lowercase
+ -Removal of punctuation and both standard and customized stopwords to minimize irrelevant data
+ -Application of Porter Stemmer and WordNet Lemmatizer for stemming and lemmatization, enhancing the semantic quality of text
+ -Preparation of refined text data to boost the accuracy and effectiveness of subsequent NLP tasks such as classification, summarization, and topic modeling
 ### 🔸 [Pandas: Hotel Booking Insights (Python)](https://github.com/Keerthana-DS-ghub/Analysing_Hotel_booking)
  - Data cleaning, merging, outlier removal (3-sigma rule)
  - EDA and visualization using Pandas & Matplotlib
