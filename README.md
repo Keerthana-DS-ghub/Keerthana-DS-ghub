@@ -35,7 +35,7 @@ As I continue to grow in my data science career, I aim to specialize in deep lea
  - Removal of punctuation and both standard and customized stopwords to minimize irrelevant data
  - Application of Porter Stemmer and WordNet Lemmatizer for stemming and lemmatization, enhancing the semantic quality of text
  - Preparation of refined text data to boost the accuracy and effectiveness of subsequent NLP tasks such as classification, summarization, and topic modeling
- ### 🔸 Real-Time AMFI Mutual Fund Data Analysis (Python, MySQL, Power BI)
+ ### 🔸 [Real-Time AMFI Mutual Fund Data Analysis (Python, MySQL, Power BI)](https://github.com/Keerthana-DS-ghub/-Real-Time-AMFI-Mutual-Fund-Data-Analysis)
   - Automated extraction of mutual fund data from AMFI using Python
   - Cleaned and transformed raw data using Pandas for analysis
   - Stored and updated data in a real-time MySQL database
