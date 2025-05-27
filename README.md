@@ -35,6 +35,20 @@ As I continue to grow in my data science career, I aim to specialize in deep lea
  - Removal of punctuation and both standard and customized stopwords to minimize irrelevant data
  - Application of Porter Stemmer and WordNet Lemmatizer for stemming and lemmatization, enhancing the semantic quality of text
  - Preparation of refined text data to boost the accuracy and effectiveness of subsequent NLP tasks such as classification, summarization, and topic modeling
+
+   🔸 Real-Time AMFI Mutual Fund Data Analysis (Python, MySQL, Power BI)
+
+Automated extraction of mutual fund data from AMFI using Python
+
+Cleaned and transformed raw data using Pandas for structured analysis
+
+Stored and maintained real-time updates in a MySQL database
+
+Created Power BI dashboards to visualize fund trends and comparisons
+
+Delivered live insights to stakeholders for data-driven investment decisions
+
+
 ### 🔸 [Pandas: Hotel Booking Insights (Python)](https://github.com/Keerthana-DS-ghub/Analysing_Hotel_booking)
  - Data cleaning, merging, outlier removal (3-sigma rule)
  - EDA and visualization using Pandas & Matplotlib
