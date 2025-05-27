@@ -20,6 +20,7 @@ As I continue to grow in my data science career, I aim to specialize in deep lea
 ### Data Science With AI
 **Company Name:** Besant Technologies  
 **Duration:** June 2024 – Present
+
 **Location:** Chennai 
 
 #### Key Responsibilities:
