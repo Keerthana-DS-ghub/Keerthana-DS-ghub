@@ -29,6 +29,12 @@ As I continue to grow in my data science career, I aim to specialize in deep lea
 - Worked closely with the business team to create interactive dashboards in Tableau for real-time decision-making.
 
 ## 📂 Featured Projects
+### 🔸[AI-Powered RAG Assistant Using LangChain and Gradio]()
+- Developed a Retrieval-Augmented Generation (RAG) chatbot using LangChain, IBM WatsonX Embeddings, ChromaDB, and Gradio
+
+- Implemented document loaders, semantic retrieval, and vector store integration for context-aware question answering
+
+- Built and deployed an interactive QA interface as part of Coursera’s “Generative AI Applications with RAG and LangChain” course
 ### 🔸 [NLP Text Preprocessing (Python)](https://github.com/Keerthana-DS-ghub/Text_Preprocessing/blob/main/README.md)
  - End-to-end text preprocessing workflow: tokenization, normalization, noise removal, and word form standardization
  - Case normalization by converting text to lowercase
