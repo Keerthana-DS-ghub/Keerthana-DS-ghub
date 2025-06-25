@@ -61,9 +61,9 @@ As I continue to grow in my data science career, I aim to specialize in deep lea
  
 ### 🧠 Certifications
 
-- **Generative AI Applications with RAG and LangChain – IBM**  -- **Jun 2025**   
-- **Master Data Science & AI Certified**                       --**Jun 2025**
-- **Tableau Data Analyst Certification – Udemy**               --**Mar 2025**  
+- **IBM Generative AI Applications with RAG and LangChain**    -- **Jun 2025**   
+- **Master Data Science & AI Certified**                       -- **Jun 2025**
+- **Udemy Tableau Data Analyst Certification**                 -- **Mar 2025**  
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keerthana-DS-ghub&show_icons=true&theme=solarized-light)
