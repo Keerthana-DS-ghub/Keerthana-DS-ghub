@@ -58,13 +58,15 @@ As I continue to grow in my data science career, I aim to specialize in deep lea
   - Analyzed attrition, performance, salary hike trends, and job satisfaction
   - Used DAX measures, custom visualizations, and dynamic slicers in Power BI
 
-### 🧠 Certifications   
-<ul>
-  <li>Generative AI Applications with RAG and LangChain – IBM 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Jun 2025</strong></li>
-  <li>Tableau Data Analyst Certification - Udemy &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Mar 2025</strong></li>
-  <li>Master Data Science & AI Certified &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Apr 2025</strong></li>
-</ul>
+ 
+### 🧠 Certifications
+
+| Certification                                                  | Issued Date |
+|----------------------------------------------------------------|-------------|
+| Generative AI Applications with RAG and LangChain – IBM        | Jun 2025    |
+| Tableau Data Analyst Certification – Udemy                     | Mar 2025    |
+| Master Data Science & AI Certified                             | Apr 2025    |
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keerthana-DS-ghub&show_icons=true&theme=solarized-light)
 
