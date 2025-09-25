@@ -38,7 +38,7 @@ As I continue to grow in my data science career, I aim to specialize in deep lea
  - Applied stemming and lemmatization to enhance text quality for NLP models
  - Prepared refined datasets for classification, summarization, and topic modeling
 
-### 🔸 [Time Series Forecasting with ARIMA & SARIMAX][(https://github.com/Keerthana-DS-ghub/Time-Serie-Arima-Sarimax)
+### 🔸 [Time Series Forecasting with ARIMA & SARIMAX](https://github.com/Keerthana-DS-ghub/Time-Serie-Arima-Sarimax)
 - Built **time series forecasting models** using **ARIMA** and **SARIMAX** to predict trends in real-world datasets.
 - Performed **data preprocessing**, **stationarity testing**, and **seasonality analysis** for accurate predictions.
 - Evaluated model performance with **RMSE** and **visualized forecasts** using Python libraries like **Pandas**, **Matplotlib**, and **Statsmodels**.
