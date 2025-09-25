@@ -37,6 +37,13 @@ As I continue to grow in my data science career, I aim to specialize in deep lea
  - Designed an end-to-end text preprocessing pipeline: tokenization, normalization, stopword removal, and text standardization
  - Applied stemming and lemmatization to enhance text quality for NLP models
  - Prepared refined datasets for classification, summarization, and topic modeling
+
+### 🔸 [Time Series Forecasting with ARIMA & SARIMAX](https://github.com/Keerthana-DS-ghub/Time-Series-Forecasting-ARIMA-SARIMAX)
+- Built **time series forecasting models** using **ARIMA** and **SARIMAX** to predict trends in real-world datasets.
+- Performed **data preprocessing**, **stationarity testing**, and **seasonality analysis** for accurate predictions.
+- Evaluated model performance with **RMSE** and **visualized forecasts** using Python libraries like **Pandas**, **Matplotlib**, and **Statsmodels**.
+- Demonstrated practical application in **predictive analytics** for business and financial data.
+
  ### 🔸 [Real-Time AMFI Mutual Fund Data Analysis (Python, MySQL, Power BI)](https://github.com/Keerthana-DS-ghub/-Real-Time-AMFI-Mutual-Fund-Data-Analysis)
   - Automated extraction of mutual fund data from AMFI using Python
   - Cleaned and transformed raw data using Pandas for analysis
