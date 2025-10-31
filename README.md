@@ -81,3 +81,9 @@ As I continue to grow in my data science career, I aim to specialize in deep lea
 📧 Email: [skeerthi.datascience@gmail.com](mailto:skeerthi.datascience@gmail.com)  
 💼 LinkedIn: [Keerthana S](https://www.linkedin.com/in/keerthana-datascience/)
 
+
+<p align="center">
+  <img src="assets/ai-hero-banner.png" alt="AI & Data Science Banner" width="1000"/>
+</p>
+
+
