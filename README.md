@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+I'm+Keerthana+👋;AI Engineer+Data+Science+%7C+ML+%7C+SQL+%7C+Tableau+%7C+NLP;Exploring+LLMs+%26+RAG+for+Document+Intelligence;Welcome+to+my+GitHub+Portfolio+🚀&color=000000&background=E0F7FA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+I'm+Keerthana+👋;Data+Science+%7C+ML+%7C+SQL+%7C+Tableau+%7C+NLP;Exploring+LLMs+%26+RAG+for+Document+Intelligence;Welcome+to+my+GitHub+Portfolio+🚀&color=000000&background=E0F7FA" alt="Typing SVG" />
 </p>
 
 ### I’m a passionate data professional skilled in transforming raw data into actionable insights. My expertise includes SQL, Python, Power BI, and Tableau, and I’m currently advancing my knowledge in Machine Learning, AWS, and Large Language Models (LLMs) for document intelligence.
