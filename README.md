@@ -29,12 +29,15 @@ As I continue to grow in my data science career, I aim to specialize in deep lea
 - Worked closely with the business team to create interactive dashboards in Tableau for real-time decision-making.
 
 ### 🚀 Featured Projects
-## 🔸🌐[Live GenAI Portfolio (Production Deployed)]()
+## 🔸🌐[Live GenAI Portfolio (Production Deployed)](https://github.com/Keerthana-DS-ghub/Genai-portfolio)
 🚀 **Interactive AI portfolio with a live recruiter-facing AI assistant**
+
 🔗 **Live App:**  
 https://keerthana-ds-ghub-genai-portfolio-landing-dmqphl.streamlit.app/
+
 💻 **Source Code:**  
 https://github.com/Keerthana-DS-ghub/Genai-portfolio
+
 **Highlights**
 - Production-ready Streamlit app with a live AI assistant
 - Custom system prompt to ensure profile-grounded, non-hallucinating responses
@@ -60,7 +63,6 @@ https://github.com/Keerthana-DS-ghub/Genai-portfolio
   - Automated extraction of mutual fund data from AMFI using Python
   - Cleaned and transformed raw data using Pandas for analysis
   - Stored and updated data in a real-time MySQL database
-  - Designed interactive Power BI dashboards to visualize fund trends
   - Enabled stakeholders with live, actionable insights for investment decisions
 ### 🔸 [Pandas: Hotel Booking Insights (Python)](https://github.com/Keerthana-DS-ghub/Analysing_Hotel_booking)
  - Data cleaning, merging, outlier removal (3-sigma rule)
@@ -75,7 +77,10 @@ https://github.com/Keerthana-DS-ghub/Genai-portfolio
 
 - **IBM Generative AI Applications with RAG and LangChain**    -- **Jun 2025**   
 - **Master Data Science & AI Certified**                       -- **Jun 2025**
-- **Udemy Tableau Data Analyst Certification**                 -- **Mar 2025**  
+- **Udemy Tableau Data Analyst Certification**                 -- **Mar 2025**
+- **Data Science Internship Certificate** — Zidio Development  -- **Sept 2025 - Oct 2025**
+- **Data Science Training Certificate** — Zidio Development    -- **Sept 2025 - Oct 2025**
+- **Data Science with AI Internship Certificate** — Besant Technologies -- **Oct2024 - Oct2025**
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keerthana-DS-ghub&show_icons=true&theme=solarized-light)
