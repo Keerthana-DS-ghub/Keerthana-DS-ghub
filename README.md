@@ -35,9 +35,6 @@ As I continue to grow in my data science career, I aim to specialize in deep lea
 🔗 **Live App:**  
 https://keerthana-ds-ghub-genai-portfolio-landing-dmqphl.streamlit.app/
 
-💻 **Source Code:**  
-https://github.com/Keerthana-DS-ghub/Genai-portfolio
-
 **Highlights**
 - Production-ready Streamlit app with a live AI assistant
 - Custom system prompt to ensure profile-grounded, non-hallucinating responses
