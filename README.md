@@ -1,20 +1,66 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+I'm+Keerthana+👋;Data+Science+%7C+ML+%7C+SQL+%7C+Tableau+%7C+NLP;Exploring+LLMs+%26+RAG+for+Document+Intelligence;Welcome+to+my+GitHub+Portfolio+🚀&color=000000&background=E0F7FA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+I'm+Keerthana+👋;Junior+AI+Engineer+%7C+GenAI+%7C+LLMs+%7C+RAG;FastAPI+%7C+Python+%7C+SQL+%7C+Machine+Learning;Building+AI-Powered+Applications+🚀;Welcome+to+my+GitHub+Portfolio&color=000000&background=E0F7FA" alt="Typing SVG" />
 </p>
 
-### I’m a data professional focused on building production-ready GenAI and data-driven systems, transforming raw data into actionable insights through analytics, machine learning, and intelligent AI applications.
+### AI Engineer passionate about building production-ready Generative AI applications, intelligent data solutions, and scalable machine learning systems. I enjoy transforming complex business challenges into AI-powered products using LLMs, RAG architectures, data analytics, and modern software engineering practices.
 
 ![Project Banner](Pro.png)
 
-### 🌱 About Me
-I began my data science journey with a drive to solve real-world problems through data. I enjoy uncovering insights, enabling data-driven decisions, and embracing emerging technologies. My projects aim to deliver end-to-end solutions that bring real business value.
+### 🌱 ### About Me
 
-### 🎯 Future Goals
-As I continue to grow in my data science career, I aim to specialize in deep learning and artificial intelligence. I'm particularly excited about the potential of large language models (LLMs) and their ability to transform how we interact with and analyze data. My goal is to build innovative, intelligent systems that can improve decision-making processes and create more efficient solutions.
+I'm a Junior AI Engineer passionate about building production-ready AI applications using Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), FastAPI, and data-driven systems.
+
+Currently, I work on AI-powered business intelligence solutions, transforming meeting data, customer interactions, and business signals into actionable insights through intelligent automation and analytics.
+
+My interests include:
+- Generative AI & LLM Applications
+- AI Agents & Intelligent Automation
+- RAG Systems & Knowledge Retrieval
+- Machine Learning & Predictive Analytics
+- FastAPI & AI Backend Development
+- LLMOps & AI Deployment
+
+### 🔭 Current Focus
+
+- Building AI-powered Client Intelligence Systems
+- Developing GenAI applications using LLMs and RAG
+- Learning AI Agents and Agentic Workflows
+- Exploring LLMOps and AI Deployment
+- Creating production-ready AI solutions
  
 ### 🔧 Tech Stack 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)![NLP](https://img.shields.io/badge/NLP-1E88E5?style=for-the-badge&logo=google&logoColor=white)![LLM](https://img.shields.io/badge/LLM-008080?style=for-the-badge&logo=openai&logoColor=white)![RAG](https://img.shields.io/badge/RAG-6A1B9A?style=for-the-badge&logo=semantic-web&logoColor=white)![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🤖 AI & GenAI
+Python • OpenAI • Claude • LangChain • LlamaIndex • Watsonx.ai • RAG • ChromaDB • Vector Databases
+
+### ⚙️ Backend
+FastAPI • SQLAlchemy • PostgreSQL • REST APIs • Alembic
+
+### 📊 Data & ML
+Pandas • NumPy • Scikit-Learn • Machine Learning • Statistics
+
+### 📈 Visualization
+Power BI • Tableau • Matplotlib
+
+### ☁️ Cloud & DevOps
+AWS • Git • GitHub • Railway • Vercel
+
+### 💻 Frontend
+Next.js • React • TypeScript • Tailwind CSS
+
+### 📌 Highlights
+
+✔ Built and deployed a live GenAI portfolio application
+
+✔ Developed RAG-based question-answering systems using LangChain
+
+✔ Implemented AI-powered meeting intelligence solutions
+
+✔ Created end-to-end machine learning and analytics projects
+
+✔ Experienced with LLM integration, vector databases, and FastAPI development
 
 ### 🧪 Internship Experience
 ###    Data Science with AI
@@ -80,9 +126,15 @@ https://keerthana-ds-ghub-genai-portfolio-landing-dmqphl.streamlit.app/
 - **Data Science with AI Internship Certificate** — Besant Technologies -- **Oct2024 - Oct2025**
 
 
+## 📊 GitHub Analytics
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keerthana-DS-ghub&show_icons=true&theme=solarized-light)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Keerthana-DS-ghub&theme=dracula)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Keerthana-DS-ghub)
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Keerthana-DS-ghub&theme=flat&no-frame=true&margin-w=15)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Keerthana-DS-ghub&theme=dracula)
 
 ### 💬 Connect with Me 
 📧 Email: [skeerthi.datascience@gmail.com](mailto:skeerthi.datascience@gmail.com)  
