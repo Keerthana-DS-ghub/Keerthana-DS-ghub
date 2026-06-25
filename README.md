@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+I'm+Keerthana+👋;Junior+AI+Engineer+%7C+GenAI+%7C+LLMs+%7C+RAG;FastAPI+%7C+Python+%7C+SQL+%7C+Machine+Learning;Building+AI-Powered+Applications+🚀;Welcome+to+my+GitHub+Portfolio&color=000000&background=E0F7FA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+I'm+Keerthana+👋;AI+Engineer+%7C+GenAI+%7C+LLMs+%7C+RAG;FastAPI+%7C+Python+%7C+SQL+%7C+Machine+Learning;Building+AI-Powered+Applications+🚀;Welcome+to+my+GitHub+Portfolio&color=000000&background=E0F7FA" alt="Typing SVG" />
 </p>
 
 ### AI Engineer passionate about building production-ready Generative AI applications, intelligent data solutions, and scalable machine learning systems. I enjoy transforming complex business challenges into AI-powered products using LLMs, RAG architectures, data analytics, and modern software engineering practices.
